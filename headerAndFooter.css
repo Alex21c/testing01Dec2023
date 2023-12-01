@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+header, footer{
+  background-color: green;
+  height: 20rem;
+}
+
+ul{
+  list-style: none;
+}
+ul>li>a{
+  font-size: 5rem;
+  color: darkblue;
+}
